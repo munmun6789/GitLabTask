@@ -1,1 +1,2 @@
+File name corrected successfully
 This is my first Git file.
